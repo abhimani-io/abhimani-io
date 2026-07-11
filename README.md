@@ -1,16 +1,23 @@
-## Hi there 👋
+# Hi, I'm Kavindya Abhimani 👋
 
-<!--
-**abhimani-io/abhimani-io** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+### 🎓 IT Undergraduate | 🎨 Digital Artist & UI/UX Enthusiast
 
-Here are some ideas to get you started:
+I am a passionate IT undergraduate who loves blending technology with creative design to build beautiful, user-friendly, and functional experiences. Currently, I am actively seeking an **Internship** opportunity to utilize my skills and grow as a professional.
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+---
+
+### 🛠️ Tools & Technologies I Know:
+
+* **Mobile App Development:** Flutter, Dart
+* **Programming Languages:** Java, C++
+* **Backend & Cloud:** Node.js, Firebase
+* **CMS & Web Builders:** WordPress
+* **UI/UX & Design:** Figma, Photoshop, Adobe Illustrator
+* **Web Frontend:** HTML, CSS, JavaScript
+
+---
+
+---
+
+### 📬 Connect with me:
+- 💼 [LinkedIn](https://linkedin.com)
