@@ -121,34 +121,6 @@ I enjoy finding issues, understanding user requirements, testing applications, a
 
 ---
 
-## 🧪 QA Testing Areas
-
-| Testing Area | Experience |
-|---|---|
-| Functional Testing | ✓ |
-| UI Testing | ✓ |
-| Usability Testing | ✓ |
-| Responsive Testing | ✓ |
-| Cross-Browser Testing | ✓ |
-| Cross-Device Testing | ✓ |
-| User Flow Testing | ✓ |
-| API Testing | ✓ |
-| Integration Testing | ✓ |
-| Database Validation | ✓ |
-| Test Case Design | ✓ |
-| Defect Identification | ✓ |
-
----
-
-## 📚 Certifications & Courses
-
-- 🎓 Web Design for Beginners — University of Moratuwa (CODL)
-- 🎨 User Interface Design with Figma — Alison
-- 💻 Diploma in Computer Applications — Fusion Sarwodaya (NAITA)
-- 🐍 Python for Beginners — University of Moratuwa (CODL)
-
----
-
 ## 🌱 Currently Learning
 
 - 🔍 Software Quality Assurance
@@ -157,15 +129,6 @@ I enjoy finding issues, understanding user requirements, testing applications, a
 - 🌐 Web Application Testing
 - 📱 Mobile Application Testing
 - 💻 Full-Stack Development
-
----
-
-## 📊 GitHub Stats
-
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=abhimani-io&show_icons=true&theme=transparent&hide_border=true" height="170"/>
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=abhimani-io&layout=compact&theme=transparent&hide_border=true" height="170"/>
-</p>
 
 ---
 
@@ -190,5 +153,4 @@ I enjoy finding issues, understanding user requirements, testing applications, a
 </p>
 
 
-- ⚡ Fun fact: ...
--->
+
